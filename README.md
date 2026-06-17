@@ -171,8 +171,5 @@ StudyGuideGenerator/
 | `500` error on generate | Check that `ANTHROPIC_API_KEY` is set correctly in `backend/.env` |
 | CORS errors | Ensure backend is running on port 8000 and frontend on port 5173 |
 | Port already in use | Change the port: `uvicorn main:app --reload --port 8001` |
-| Empty guide / timeout | Large syllabi may take longer; wait up to 30 seconds |
+| Empty guide / timeout | Large syllabus may take longer; wait up to 30 seconds |
 
-## License
-
-MIT
