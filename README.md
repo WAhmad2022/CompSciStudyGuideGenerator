@@ -9,9 +9,7 @@ A full-stack web app where you paste a list of CS topics or a course syllabus, u
 | Frontend | React.js (Vite), Tailwind CSS |
 | Backend | FastAPI (Python) |
 | AI | Anthropic API (`claude-sonnet-4-6`) via official Python SDK |
-| PDF export | reportlab |
-| PDF text extraction | pypdf |
-| Markdown rendering | react-markdown |
+| PDF export | reportlab & pypdf |
 
 ## Prerequisites
 
